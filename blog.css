@@ -58,11 +58,12 @@ span {
     font-size: 14px;
 }
 
-h3{
+h1{
+    font-size: 16px;
     font-weight: 800;
 }
 
-h3:hover{
+h1:hover{
     color:yellow;
 }
     
