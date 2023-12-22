@@ -5,7 +5,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL:https://github.com/Shitanshukumar607/Newspaper-signup
-- 
 - Live Site URL: https://github.com/Shitanshukumar607/Blog-preview-card
 
 ### Built with
